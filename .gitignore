@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/PathChecker/v16
+/.vs
+/packages
+/x64/Debug
+/PathChecker/bin/Debug
+/PathChecker/obj
+/FileMetadata/Debug
+/FileMetadata/x64
+/CsharpTests/bin/Debug
+/CsharpTests/obj/Debug
+/CppTests/x64/Debug
